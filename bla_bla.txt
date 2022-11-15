@@ -6,3 +6,5 @@ bla bla bal local
 confilt in main 
 conflit in bala bla of newfeature
 creating another conflict
+conflit in bala bla of newfeature
+conflit 2 nf
