@@ -8,4 +8,5 @@ conflit in bala bla of newfeature
 creating another conflict
 conflit in bala bla of newfeature
 conflit 2 nf
+confict sf
 confilct in m
