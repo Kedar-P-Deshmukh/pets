@@ -4,3 +4,4 @@ change in bla bla in local
 bla bla bal local
 
 confilt in main 
+conflit in bala bla of newfeature
