@@ -4,6 +4,9 @@
 -4
 -3
 -2
+kedar
+kedar'
+kedar
 -1
 zero
 one
